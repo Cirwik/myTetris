@@ -5,7 +5,7 @@ Simple game to try some coding in Go
 ## ToDo
 
 Ideas and stuff I might do
-- get the graphic part working via [Ebiten engine]https://ebitengine.org/
+- get the graphic part working via [Ebiten engine](https://ebitengine.org/)
 - get a basic game working
 
 ## License
